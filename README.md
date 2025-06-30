@@ -1,5 +1,5 @@
 # 👾 Gautam Deshpande
-> Code. Coffee. Curiosity.
+### Breaking down complexity, one line of code at a time.
 
 ## 👨‍💻 About Me
 
