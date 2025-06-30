@@ -4,7 +4,8 @@
 ## 👨‍💻 About Me
 
 Hi, I’m Gautam — the kind of developer who likes to dig into how things work, break them (sometimes on purpose), and build them back better.
-I spend a lot of time messing around with code, whether it’s writing quick Python scripts that solve a random problem I made up, poking at game mechanics in Unity just to see what breaks, or experimenting with weird NLP models to make chatbots say funny things.
+Gaming got me into coding, and now I can't stop doing both.
+Sometimes it’s a personal project, sometimes just curiosity, but I always walk away having learned something new.
 You’ll usually find me flipping between VS Code tabs, Stack Overflow threads, and 20+ Chrome tabs I swear I’ll read. I enjoy that chaotic learning phase where nothing makes sense… until suddenly it does.
 I’m currently trying to get more into open source, contribute to projects I admire, and maybe share a few of my own ideas along the way.
 
