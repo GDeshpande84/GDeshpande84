@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m Gautam — the kind of developer who likes to dig into how things work, break them (sometimes on purpose), and build them back better.
+Hi, I’m Gautam. The kind of developer who likes to dig into how things work, break them (sometimes on purpose), and build them back better.
 Gaming got me into coding, and now I can't stop doing both.
 Sometimes it’s a personal project, sometimes just curiosity, but I always walk away having learned something new.
 You’ll usually find me flipping between VS Code tabs, Stack Overflow threads, and 20+ Chrome tabs I swear I’ll read. I enjoy that chaotic learning phase where nothing makes sense… until suddenly it does.
